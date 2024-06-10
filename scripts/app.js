@@ -262,7 +262,7 @@ const questions =
 		new Answer("Щедростью", 0)
 	]),
 
-	new Question("Сколько лоет было пророку (ﷺ), когда кормилица вернула его маме?", 
+	new Question("Сколько лет было пророку (ﷺ), когда кормилица вернула его маме?", 
 	[
 		new Answer("6", 0),
 		new Answer("2", 0),
@@ -283,7 +283,6 @@ const questions =
 		new Answer("В мекке", 0),
 		new Answer("В местности аль-Абва", 1),
 		new Answer("В долине Тихама", 0),
-		new Answer("В долине Тихама", 0),
 		new Answer("В медине", 0)
 	]),
 
@@ -293,6 +292,166 @@ const questions =
 		new Answer("8", 0),
 		new Answer("6", 1),
 		new Answer("4", 0)
+	]),
+
+	new Question("Что посоветовал мазать монах, чтобы вылечились глаза Пророка (ﷺ)", 
+	[
+		new Answer("Землю", 0),
+		new Answer("Молоко", 0),
+		new Answer("Зам-зам", 0),
+		new Answer("Слюну", 1)
+	]),
+
+	new Question("Сколько лет было Пророку (ﷺ) когда скончался Абдуль-Мутталиб?", 
+	[
+		new Answer("9", 0),
+		new Answer("8", 1),
+		new Answer("7", 0),
+		new Answer("10", 0)
+	]),
+
+	new Question("Под чью опеку перешел пророк(ﷺ) по завещанию Абдуль-Мутталиба?", 
+	[
+		new Answer("Абу-Талиба", 1),
+		new Answer("Хамзы", 0),
+		new Answer("Абу-Ляхаба", 0),
+		new Answer("Абдуллаха", 0)
+	]),
+
+	new Question("Во сколько лет Мухаммад(ﷺ) отправился в шам с Абу-Талибом?", 
+	[
+		new Answer("12", 1),
+		new Answer("11", 0),
+		new Answer("14", 0),
+		new Answer("16", 0)
+	]),
+
+	new Question("Как звали монаха, который назвал Мухаммада(ﷺ) ГОСПОДИНОМ МИРОВ", 
+	[
+		new Answer("Яхья", 0),
+		new Answer("Муфаса", 0),
+		new Answer("Бахира", 1),
+		new Answer("Шрам", 0)
+	]),
+
+	new Question("Во сколько лет Мухаммад(ﷺ) отправился в Шам 2 раз", 
+	[
+		new Answer("22", 0),
+		new Answer("23", 0),
+		new Answer("25", 1),
+		new Answer("27", 0)
+	]),
+
+	new Question("Как звали попутчика Пророка(ﷺ)", 
+	[
+		new Answer("Майсара", 1),
+		new Answer("Никар", 0),
+		new Answer("Муфи", 0),
+		new Answer("Зейд", 0)
+	]),
+
+	new Question("Пророк (ﷺ) остановился под деревом и монах сказал-Под этим деревом не останавливался никто, кроме пророка. Как звали монаха?", 
+	[
+		new Answer("Мафир", 0),
+		new Answer("Кабир", 0),
+		new Answer("Леик", 0),
+		new Answer("Нестур", 1)
+	]),
+
+	new Question("Какой дядя засватал Хадиджу Пророку(ﷺ)?", 
+	[
+		new Answer("Абу-Талиб", 0),
+		new Answer("Хамза", 1),
+		new Answer("Абу-Ляхаб", 0),
+		new Answer("Харис", 0)
+	]),
+
+	new Question("Сколько лет было Пророку (ﷺ) когда отстраивали Каабу?", 
+	[
+		new Answer("27", 0),
+		new Answer("29", 0),
+		new Answer("30", 0),
+		new Answer("35", 1)
+	]),
+
+	new Question("Какой был первый глас, обращенный к Пророку(ﷺ)?", 
+	[
+		new Answer("Читай", 0),
+		new Answer("Избегай лицемеров", 0),
+		new Answer("Укрой свой аврат", 1),
+		new Answer("Не гони просящего", 0)
+	]),
+
+	new Question("Кто первым зашел через врата рода Шайба для разрешения спора?", 
+	[
+		new Answer("Хамза", 0),
+		new Answer("Абу бакр", 0),
+		new Answer("Мухаммад(ﷺ)", 1),
+		new Answer("Умар", 0)
+	]),
+
+	new Question("Сколько раз Пророк (ﷺ) собирался совершить недостойные Пророка деяния?", 
+	[
+		new Answer("0", 0),
+		new Answer("2", 1),
+		new Answer("4", 0),
+		new Answer("5", 0)
+	]),
+
+	new Question("Как звали пещеру, в которой уеденялся Пророк(ﷺ)?", 
+	[
+		new Answer("Сира", 0),
+		new Answer("Шам", 0),
+		new Answer("Хира", 1),
+		new Answer("Нак", 0)
+	]),
+
+	new Question("На сколько лет прекратились Откровения после первых аятов?", 
+	[
+		new Answer("3", 1),
+		new Answer("5", 0),
+		new Answer("1,5", 0),
+		new Answer("2", 0)
+	]),
+
+	new Question("Кто первым из мужчин уверовал в Пророка(ﷺ)?", 
+	[
+		new Answer("Хамза", 0),
+		new Answer("Усман", 0),
+		new Answer("Абу Бакр", 1),
+		new Answer("Саад", 0)
+	]),
+
+	new Question("Кто первым уверовала из женщин?", 
+	[
+		new Answer("Сумая", 0),
+		new Answer("Аиша", 0),
+		new Answer("Умм Кульсум", 0),
+		new Answer("Хадиджа", 1)
+	]),
+
+	new Question("Кто из детей первым уверовал?", 
+	[
+		new Answer("Али", 1),
+		new Answer("Усман", 0),
+		new Answer("Ибрагим", 0),
+		new Answer("Иса", 0)
+	]),
+
+	new Question("Через сколько лет после призыва, Пророк (ﷺ) велел мусульманам разойтись по странам?", 
+	[
+		new Answer("4", 0),
+		new Answer("5", 1),
+		new Answer("6", 0),
+		new Answer("3,5", 0)
+	]),
+
+	new Question("Куда велел им направиться Пророк (ﷺ)", 
+	[
+		new Answer("Ясриб", 0),
+		new Answer("Дамаск", 0),
+		new Answer("Эфиопию", 1),
+		new Answer("Константинополь", 0)
 	]),
 ];
 
